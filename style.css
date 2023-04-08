@@ -1,0 +1,78 @@
+header img{
+    width: 50px;
+    height: 50px;
+}
+
+header p{
+    font-size: 20px;
+    margin: 10px 10px 10px 10px;
+}
+
+header{
+    background-color: #338CDC;
+    padding: 5px;
+}
+
+header a{
+    margin: 30px 30px 30px 30px;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+    border-radius: 10px;
+    background-color: white;
+}
+
+h1{
+    text-align: center;
+    font-family: Cursive;
+    font-size: 40px;
+}
+
+.bruh{
+    font-size: 25px;
+}
+
+.goog{
+    border: 5px dotted #DB4F48;
+    padding: 10px;
+    font-family: sans-serif;
+}
+
+.duh{
+    font-size: 25px;
+}
+
+.hooh{
+    border: 5px dotted #888F1A;
+    padding: 10px;
+    font-family: Monospace;
+}
+
+.poop{
+    font-size: 25px;
+}
+
+.sus{
+    border: 5px dotted #D0DB1D;
+    padding: 20px;
+    font-family: Cursive;
+}
+
+.pee{
+    font-size: 25px;
+}
+
+.amogus{
+    border: 5px dotted #DB4F48;
+    padding: 10px;
+    font-family: sans-serif;
+}
+
+footer{
+    background-color: #13558F;
+}
+
+footer p{
+    background-color: white;
+    padding: 10px;
+}
